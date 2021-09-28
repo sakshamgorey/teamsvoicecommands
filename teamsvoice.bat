@@ -1,0 +1,1 @@
+C:\Python39\python.exe "C:\Users\SaGo\Documents\code stuff\Automation\teamsVoice\teamsvoice.py"
